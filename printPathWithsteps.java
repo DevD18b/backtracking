@@ -1,7 +1,7 @@
-import java.rmi.StubNotFoundException;
+
 import java.util.Arrays;
 
-public class printAllPossiblePathsWithSteps{
+public class printPathWithsteps{
     public static void main(String[] args) {
         
     }
